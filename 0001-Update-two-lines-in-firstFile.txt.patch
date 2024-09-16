@@ -1,0 +1,24 @@
+From 0e2816d2eb71bddc33eb19625418ed4eb03261e8 Mon Sep 17 00:00:00 2001
+From: Alona Didyk <alionadiduk31@gmail.com>
+Date: Mon, 16 Sep 2024 19:42:44 +0300
+Subject: [PATCH] Update two lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 54b37af..abcd4de 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-q
+-w
++a
++s
+ e
+ r
+ t
+-- 
+2.43.2
+
