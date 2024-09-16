@@ -2,6 +2,10 @@ a
 s
 c
 v
+z
+x
+d
+f
 t
 y
 u
